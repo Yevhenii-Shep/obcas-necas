@@ -1,0 +1,3 @@
+RetracM: SIL Open Font License 1.1. Based on Bitstream Charter and Khartiya by Andrey V. Panov.
+Copyright 1990 Bitstream Inc.; 2009-2012 Andrey V. Panov; 2013-2023 Michael Sharpe; 2026 RetracM.
+Full text: https://openfontlicense.org
